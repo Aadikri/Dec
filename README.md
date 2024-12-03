@@ -1,4 +1,4 @@
-# Dec
+
 🎯 Cracking the Code of Retail Success with Data Analytics
 
 Let’s step into the world of a clothing store 🛍️. Here’s how data analytics stitches the perfect strategy:
